@@ -1,24 +1,38 @@
-# README
+# Micro - Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> A basic version of [Reddit](https://www.reddit.com/).
 
-Things you may want to cover:
+<p align="center">
+    <img src="image.png">
+</p>
 
-* Ruby version
+The porpuse of this project is build the data structures necessary to support link submissions and commenting for the [Reddit](https://www.reddit.com/) site.
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby on Rails 5.2.4
 
-* Database creation
 
-* Database initialization
+## Authors
 
-* How to run the test suite
+👤 **Ivan Ulises Guzman Sanchez**
 
-* Services (job queues, cache servers, search engines, etc.)
+- Github: [@fivan18](https://github.com/fivan18)
+- Twitter: [@fivanunam](https://twitter.com/fivanunam)
+- Linkedin: [fivan](https://www.linkedin.com/in/fivan)
 
-* Deployment instructions
+👤 **Remy Certil**
 
-* ...
+- Github: [@certilremy](https://github.com/certilremy)
+- Twitter: [@certilremy](https://twitter.com/certilremy)
+- Linkedin: [certilremy](https://linkedin.com/in/certilremy)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/fivan18/micro-reddit/issues).
+
+## 📝 License
+
+This project is [MIT]() licensed.
