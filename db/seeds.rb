@@ -8,7 +8,7 @@
 
 a = User.new 
 a.username = "certilremy"
-a. email = "certil@gmail.com"
+a.email = "certil@gmail.com"
 a.save
 p = Post.new 
 p.user_id = a.id
